@@ -37,6 +37,7 @@ GITHUB_MODULES=(
     "kma_v6.12.605.kpm=https://raw.githubusercontent.com/laolanya/kpmlaolanya/refs/heads/main/kma_v6.12.605.kpm"
     "kma_v6.12.603.kpm=https://raw.githubusercontent.com/laolanya/kpmlaolanya/refs/heads/main/kma_v6.12.603.kpm"
     "kma_v6.12.503.kpm=https://raw.githubusercontent.com/laolanya/kpmlaolanya/refs/heads/main/kma_v6.12.503.kpm"
+    "kma_v6.12.609.kpm=https://raw.githubusercontent.com/laolanya/kpmlaolanya/refs/heads/main/kma_v6.12.609.kpm"
     # 在这里添加更多模块（取消注释并修改）
     # "ReKernel.kpm=https://raw.githubusercontent.com/laolanya/kpmlaolanya/refs/heads/main/ReKernel.kpm"
     # "network.kpm=https://raw.githubusercontent.com/laolanya/kpmlaolanya/refs/heads/main/network.kpm"
